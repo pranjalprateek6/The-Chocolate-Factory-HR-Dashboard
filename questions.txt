@@ -1,0 +1,18 @@
+questions:
+
+1. how many people are in each job
+2. gender breakdown of the staff
+3. age spread of the staff
+4. which jobs pays more?
+5. top earners in each job?
+6. qualification vs salalry
+7. staff growth trends over time
+
+insights:
+1. there are roughly 10-20 people in each job and the most people are in packaging associate
+2. female (88 ~ 55%) vs male (73 ~ 45%)
+3. most people are of ages in between 25 to 35
+4. most payable job is product manager at 82k on average followed by research scientist at 77k on average
+5. lets leave this one for user to see
+6. higher qualification means higher salary msc at 67k average followed by under grad at 54k average followed by diploma at 51k average and last is highschool diploma at 49k average
+7. consistent groth over time, adding almost 20-30 people every year
